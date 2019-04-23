@@ -1,3 +1,4 @@
 Id	Nombres		Apellidos		Edad
 01	Jose			Romero		22
 02	Jose			Romero		22
+04	Juan			Romero		24
